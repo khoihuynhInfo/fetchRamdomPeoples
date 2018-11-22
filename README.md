@@ -1,6 +1,8 @@
-- This app i handle fetch api for ramdom list peoples
+- This app i handle fetch api for ramdom list peoples have combine(reactjs, redux thunk)
 - API_LINK : https://randomuser.me/api/?results=15
 - I make it with tutorial https://www.youtube.com/watch?v=EfzVf4eoJ-c,
+- i install packets 
+-  npm install --save redux react-redux redux-thunk
 ## thank you verymuch channel  https://www.youtube.com/channel/UCBGkweoKCtSBx6GEXRYIWLg
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
